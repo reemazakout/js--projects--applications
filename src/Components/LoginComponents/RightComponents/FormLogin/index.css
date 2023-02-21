@@ -1,0 +1,41 @@
+.inputRelative {
+     margin-bottom: 2rem;
+}
+.showPass {
+    position: relative;
+    margin-left: auto;
+    right: 12%;
+    top: -78px;
+    width: 30px;
+    height: 24px;
+}
+
+.lastText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.last-p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    color: #696F79;
+}
+a {
+    color: #1565D8;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+}

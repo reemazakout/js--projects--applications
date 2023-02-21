@@ -1,0 +1,159 @@
+.RightSecation {
+    width: 80%;
+    justify-content: center;
+}
+
+.divBack {
+    display: flex;
+    align-items: center;
+}
+
+.TextBack {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    color: #8692A6;
+
+}
+
+.divContentForm {
+    display: flex;
+    flex-direction: column;
+    width: 66%;
+    text-align: left;
+    padding: 1rem;
+    margin-top: 3rem  ;
+ margin-left: 2rem;
+}
+
+
+.divContentFormLogin {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    text-align: left;
+    padding: 1rem;
+    margin-top: 3rem  ;
+ margin-right: auto;
+
+}
+
+.agrees {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+
+    color: #696F79;
+
+}
+
+
+
+.formGroup {
+    display: flex;
+
+    flex-direction: column;
+    font-size: 1.1rem;
+    color: #696F79;
+}
+
+.formGroup input {
+    margin-top: .75rem;
+    height: 64px;
+    padding: .5rem 1rem;
+    border: 1px solid #8692A6;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    outline: none;
+    display: flex;
+    align-items: center;
+
+    color: #8692A6;
+}
+
+label.formGroup {
+    margin: 1rem 0 0 0;
+}
+
+
+.formGroup--custom {
+    display: block;
+}
+
+.formGroup--custom input[type=checkbox] {
+    margin: 1rem .7rem;
+    border: 5px solid #5f5f5f;
+}
+
+.formGroup--custom input[type=submit] {
+    width: 100%;
+    padding: .75rem .5rem;
+    background-color: #1565D8;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-size: 1rem;
+    color: #FFF;
+    border-radius: .4rem;
+    margin-bottom: .5rem;
+    height: 64px;
+}
+
+.formGroup--customs input[type=submit] {
+    width: 100%;
+    padding: .95rem .5rem;
+    background-color: transparent;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-size: 1rem;
+    color: #FFF;
+    border-radius: .4rem;
+    color: black;
+
+}
+
+
+.formGroup--custom input[type=submit]:hover {
+    background-color: #547cc5;
+}
+
+.BackLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+
+}
+
+.BackLogin {
+    background: #FFFFFF;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    display: flex;
+    position: relative;
+}
+
+.google {
+    text-align: left;
+    position: absolute;
+    left: 55px;
+}
+
+.progress-bar {
+    border-radius: 12px;
+    margin-top: .5rem;
+}

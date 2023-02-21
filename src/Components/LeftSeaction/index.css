@@ -1,0 +1,36 @@
+.contentleftSeaction{
+    background-image: url('../../assets/Rectangle\ 31.png');
+    background-size: cover;
+    width: 46%;
+    margin-right: auto;
+background-position: center;
+ }
+ 
+.LeftSeactnHome {
+    background: #1565D8;
+    opacity: 0.9;
+     height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+   
+ }
+.stars{
+    right: 71%;
+    top:28%;
+    position: absolute;
+
+}
+.vector{
+    width: 33.5px;
+height: 33px;
+display: flex;
+position: absolute;
+right: 68%;
+top: 85%;
+}
+
+.allContents{
+    display: flex;
+    align-items: center;
+}

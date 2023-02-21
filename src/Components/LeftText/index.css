@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+.textLeft{
+     display: flex;
+     flex-direction: column;
+    margin-top: 15rem;
+}
+.quotation {
+    font-style: normal;
+    font-family: Gayathri, serif;
+    font-size: 66px;
+    font-weight: bold;
+    color: #BABABA;
+    position: absolute;
+     left: 0;
+    color: #00DAF7;
+   top: -55%;
+   }
+
+.Hideo {
+    font-family: 'Inter';
+    font-style: normal;
+     font-size: 18px;
+     display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    line-height: 7;
+
+}
+
+.des {
+    font-family: 'Inter';
+    font-style: normal;
+     position: relative;
+    font-size: 18px;
+     align-items: center;
+ word-spacing: 4px;
+ max-width: 
+ 473px;
+ line-height: 2;
+    color: #FFFFFF;
+}
+ 

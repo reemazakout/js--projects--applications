@@ -1,0 +1,15 @@
+.divLogo{
+    display: flex;
+    align-items: center;
+}
+.textLogo{
+    font-family: 'Raanana';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+ 
